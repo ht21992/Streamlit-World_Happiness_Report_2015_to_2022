@@ -1,12 +1,12 @@
-## World Happiness Report 2015 to 2022 
+## World Happiness Report 2015 to 2022
 
 ```
 1. install requirments.txt using the command below
     1.1 pip install -r requirements.txt
 2. streamlit run main.py
 ```
-Dataset Link : [Kaggle](https://www.kaggle.com/datasets/mayzannilarthein44/world-happiness-report-2015-to-2022) 
-#### This App has been deployed on [Streamlit](https://ht21992-steganography-main-i9r7qy.streamlit.app/)
+Dataset Link : [Kaggle](https://www.kaggle.com/datasets/mayzannilarthein44/world-happiness-report-2015-to-2022)
+#### This App has been deployed on [Streamlit](https://ht21992-streamlit-world-happiness-report-2015-to-20-main-v79p62.streamlit.app/)
 
 ### Some Rank Difference from 2015 until 2022
 ```
@@ -24,7 +24,7 @@ Venezuela: -85 (2015: 23  , 2022: 108)
 
 ### Best Average Rank (2015-2022)
 ```
-1: Denmark ≈ 2.12 
+1: Denmark ≈ 2.12
 2: Finland ≈ 2.62
 3: Iceland ≈ 3.37
 ```
