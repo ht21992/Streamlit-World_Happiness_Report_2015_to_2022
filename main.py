@@ -17,7 +17,7 @@ st.set_page_config(
 st.write(styles, unsafe_allow_html=True)
 
 
-@st.cache_data
+@st.cache_data 
 def get_data():
     dataframe = pd.read_csv(
         './world_happiness_2015_2022/world-happiness-report-2015-2022.csv')
