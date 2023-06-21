@@ -187,15 +187,13 @@ else:
                     <br/>
                     <b>Min:</b> Lowest Rank
                     <br/>
-                    <b>Min:</b> Lowest Rank
-                    <br/>
                     <b>25%:</b> The 25% percentile
                     <br/>
                     <b>50%:</b> The 50% percentile
                     <br/>
                     <b>75%:</b> The 75% percentile
                     <br/>
-                    <b>Min:</b> Highest Rank
+                    <b>Max:</b> Highest Rank
                     </small>
                     """, unsafe_allow_html=True)
 
